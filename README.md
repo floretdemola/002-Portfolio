@@ -1,6 +1,3 @@
-# 002-Portfolio
-
-
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
