@@ -1,6 +1,6 @@
 # 02 Advanced CSS: Portfolio
 
-## Your Task
+## My Task
 
 Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
 
@@ -98,7 +98,7 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application: https://floretdemola.github.io/002-Portfolio/
 
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
