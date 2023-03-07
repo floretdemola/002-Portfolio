@@ -98,7 +98,7 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the deployed application: https://floretdemola.github.io/002-Portfolio/
+* The URL of the deployed application: https://floretdemola.github.io/002-Portfolio/ screenshot of entire page is in assets named floretdemola.github.io_002-Portfolio_ (1).png
 
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
