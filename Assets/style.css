@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Added roots */
 :root {
     --text: #000000;
     --light-color: #aba9b3;
@@ -46,6 +47,9 @@ header nav {
     margin: 7px 0;
 }
 
+/* nav elements */
+
+
 nav {
     margin: 7px;
     margin-right: 1%;
@@ -61,6 +65,8 @@ section {
     flex-direction: row;
     justify-content: space-around;
 }
+
+/* aside elements */
 
 aside {
     width: 10%;
@@ -81,6 +87,8 @@ aside::after {
     background: var(--labels);
 }
 
+/* article plus paragraph elements */
+
 article {
     width: 80%;
     margin: 10px;
@@ -93,6 +101,8 @@ p{
     font-weight: 400;
     line-height: 1.2;
 }
+
+/* nav class elements */
 
 .nav {
     text-decoration: none;
@@ -139,6 +149,8 @@ a.bottom-nav::after {
     background-color: var(--text);
 }
 
+/* banner and subtitle class elements */
+
 .banner{
     height: 250px;
     width: 100%;
@@ -152,12 +164,17 @@ a.bottom-nav::after {
     padding: 5px;
 }
 
+
 figcaption.subtitle-position {
     bottom: 5px;
     right: 3%;
     font-size: 15px;
     font-weight: bolder;
 }
+
+
+/* work class elements */
+
 
 .work {
     position: relative;
@@ -179,6 +196,8 @@ div.large {
     height: 200px;
     width: 100%;
 }
+
+/* profile photo */
 
 .profilephoto {
     border-radius: 8px;
@@ -225,6 +244,8 @@ div a img {
 div a img:hover {
     opacity: 1;
 }
+
+/* media elements */
 
 @media screen and (max-width: 1024px) {
     header {
